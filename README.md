@@ -29,7 +29,7 @@ Displays first 20 common words
     * Open VS code select any new folder
     * Select Terminal->New Terminal->pass
     ```
-        git clone 
+        git clone https://github.com/P-VARUN/PLAGIARISM-CHECKER
     ```
     that code in Terminal.
 2. `pip install -r requirements.txt`
@@ -71,7 +71,8 @@ Feel free to Contact me for new ideas you have in this project.
 
 
 ## License
-FREE FOR ALL STUDENTS.
+MIT License - feel free to use, modify, and distribute.
+Made espically for STUDENTS.
 Made with ❤️ for academic integrity
 
 ## 🔎Contact Info
