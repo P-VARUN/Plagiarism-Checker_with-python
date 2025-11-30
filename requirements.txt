@@ -1,0 +1,6 @@
+PyPDF2
+python-docx
+wikipedia
+beautifulsoup4
+requests
+lxml
