@@ -73,7 +73,7 @@ Feel free to Contact me for new ideas you have in this project.
 ## License
 MIT License - feel free to use, modify, and distribute.
 Made espically for STUDENTS.
-Made with ❤️ for academic integrity
+Made with ❤️ for academic integrity.
 
 ## 🔎Contact Info
 Contact me if any errors faced, or doubts in the project: https://discord.gg/s4qsdWS5S2
